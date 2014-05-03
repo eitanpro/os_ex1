@@ -1,0 +1,3 @@
+/home/elmalech/ex1
+/home/elmalech/code/input.txt
+/home/elmalech/code/correctOutput.txt
